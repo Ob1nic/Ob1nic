@@ -39,11 +39,11 @@
 
 ---
 
-## 🧰 General Tools
+## Tools
 
 <p align="left">
   <a href="https://www.microsoft.com/en/microsoft-365/excel" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoft/microsoft-original.svg" alt="Excel" width="40" height="40"/>
+    <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoft/microsoft-original.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/587px-Microsoft_Excel_2013-2019_logo.svg.png?20221202081052)" alt="Excel" width="40" height="40"/>
   </a>
   <a href="https://www.photoshop.com/en" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
@@ -61,10 +61,10 @@
 ## 🌐 Languages I Speak
 
 - **English:** Fluent  
-- **中文:** 学习中文  
-- **Turkish:** Learning  
+- **中文:** 学习中文    
 - **Hebrew:** Basic knowledge  
-- **Russian:** Basic knowledge  
+- **Russian:** Basic knowledge
+- **Turkish:** Learning
 
 ---
 
@@ -72,15 +72,5 @@
 *(You can add your links here later — LinkedIn, Portfolio, Twitter, etc.)*
 
 <p>
-  <a href="#" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/chetachiezikeuzor/chetachiezikeuzor/main/assets/linkedinblue.png" alt="LinkedIn" height="30px">
-  </a>
-  &nbsp;
-  <a href="#" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/chetachiezikeuzor/chetachiezikeuzor/main/assets/twitterblue.png" alt="Twitter" height="30px">
-  </a>
+  
 </p>
-
----
-
-![Visitor Count](https://komarev.com/ghpvc/?username=USERNAME&color=blue)
