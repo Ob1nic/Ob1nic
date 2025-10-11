@@ -1,6 +1,6 @@
-![Nicollas](https://raw.githubusercontent.com/USERNAME/USERNAME/main/assets/profile.gif)
+![Nicollas]([https://raw.githubusercontent.com/USERNAME/USERNAME/main/assets/profile.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWFhaDRpOTJrZXVrcDVpeGppNWc3OHVubmRxZGhuMDJ1bXduNXQ5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cqv1ehyeR4KigaiHRa/giphy.gif))
 
-# Hello, I'm Nicollas! <img src="https://raw.githubusercontent.com/chetachiezikeuzor/chetachiezikeuzor/main/wave.gif" width="30px">
+# Hi, I'm Nicollas! <img src="https://raw.githubusercontent.com/chetachiezikeuzor/chetachiezikeuzor/main/wave.gif" width="30px">
 
 <h4>I'm a passionate software developer who loves exploring languages, systems, and cultures.</h4>
 
