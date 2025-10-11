@@ -1,17 +1,16 @@
-![Nicollas]([https://raw.githubusercontent.com/USERNAME/USERNAME/main/assets/profile.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWFhaDRpOTJrZXVrcDVpeGppNWc3OHVubmRxZGhuMDJ1bXduNXQ5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cqv1ehyeR4KigaiHRa/giphy.gif))
 
 # Hi, I'm Nicollas! <img src="https://raw.githubusercontent.com/chetachiezikeuzor/chetachiezikeuzor/main/wave.gif" width="30px">
 
-<h4>I'm a passionate software developer who loves exploring languages, systems, and cultures.</h4>
+<h4>I'm a passionate freelancer developer who explores languages, systems, and cultures.</h4>
 
-- 💻 Focused on building creative and useful projects with **JavaScript**, **Python**, and **C++**.  
+- 💻 Focused on building creative and useful projects with **JavaScript** and **Python**. 
 - 🌍 I enjoy combining logic and design — from front-end interfaces to complex problem-solving.  
 - 📘 Constantly learning and improving, both in programming and in languages.  
-- ☕ When I’m not coding, I’m studying languages, astronomy, or improving my design workflow.
+- ☕ When I’m not coding, I’m studying languages, astronomy, astrophysics, writing scripts or improving my design workflow.
 
 ---
 
-## 🛠️ Languages & Tools I Use Often
+## These are a few languages and tools I use often:
 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
@@ -35,30 +34,25 @@
   <a href="https://isocpp.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   </a>
-</p>
-
----
-
-## Tools
-
-<p align="left">
+  <p align="left">
   <a href="https://www.microsoft.com/en/microsoft-365/excel" target="_blank">
-    <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoft/microsoft-original.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/587px-Microsoft_Excel_2013-2019_logo.svg.png?20221202081052)" alt="Excel" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" alt="Excel" width="40" height="40"/>
   </a>
   <a href="https://www.photoshop.com/en" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Photoshop" width="40" height="40"/>
   </a>
   <a href="https://www.adobe.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/adobe/adobe-icon.svg" alt="Adobe" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="Adobe" width="40" height="40"/>
   </a>
   <a href="https://www.figma.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
   </a>
 </p>
+</p>
 
 ---
 
-## 🌐 Languages I Speak
+## Languages I Speak
 
 - **English:** Fluent  
 - **中文:** 学习中文    
@@ -69,8 +63,11 @@
 ---
 
 ## 🔗 Find Me Online
-*(You can add your links here later — LinkedIn, Portfolio, Twitter, etc.)*
+<a href="https://linktr.ee/nicolasob1/" target="_blank">
+    <img src="https://cdn.brandfetch.io/id_tNIm05N/w/400/h/400/theme/dark/icon.png?c=1dxbfHSJFAPEGdCLU4o5B" width="40" height="40"/>
+  </a>
 
-<p>
-  
-</p>
+---
+
+## 🔗 Projects Websites
+*(Links here.)*
