@@ -57,8 +57,8 @@
 - **English:** Fluent  
 - **中文:** 学习中文    
 - **Hebrew:** Basic knowledge  
-- **Russian:** Basic knowledge
-- **Turkish:** Learning
+- **Russian:** Learning...
+- **Turkish:** Learning...
 
 ---
 
