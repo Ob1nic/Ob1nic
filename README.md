@@ -1,5 +1,5 @@
 
-# Hi, I'm Nicollas! <img src="https://raw.githubusercontent.com/chetachiezikeuzor/chetachiezikeuzor/main/wave.gif" width="30px">
+# Hi, I'm Nicolas! <img src="https://raw.githubusercontent.com/chetachiezikeuzor/chetachiezikeuzor/main/wave.gif" width="30px">
 
 <h4>I'm a passionate freelancer developer who explores languages, systems, and cultures.</h4>
 
@@ -37,6 +37,9 @@
   <p align="left">
   <a href="https://www.microsoft.com/en/microsoft-365/excel" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" alt="Excel" width="40" height="40"/>
+  </a>
+    <a href="https://www.photoshop.com/en" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Affinity_%28App%29_Logo.svg" alt="Photoshop" width="40" height="40"/>
   </a>
   <a href="https://www.photoshop.com/en" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Photoshop" width="40" height="40"/>
