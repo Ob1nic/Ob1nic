@@ -28,17 +28,14 @@
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
   </a>
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://isocpp.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="TypeScript" width="40" height="40"/>
   </a>
   <p align="left">
   <a href="https://www.microsoft.com/en/microsoft-365/excel" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" alt="Excel" width="40" height="40"/>
   </a>
-    <a href="https://www.photoshop.com/en" target="_blank">
+    <a href="https://www.affinity.studio/pt_br/graphic-design-software" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Affinity_%28App%29_Logo.svg" alt="Photoshop" width="40" height="40"/>
   </a>
   <a href="https://www.photoshop.com/en" target="_blank">
