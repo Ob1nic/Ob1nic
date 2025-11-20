@@ -4,7 +4,6 @@
 <h4>I'm a passionate freelancer developer who explores languages, systems, and cultures.</h4>
 
 - 💻 Focused on building creative and useful projects with **JavaScript** and **Python**. 
-- 🌍 I enjoy combining logic and design — from front-end interfaces to complex problem-solving.  
 - 📘 Constantly learning and improving, both in programming and in languages.  
 - ☕ When I’m not coding, I’m studying languages, astronomy, astrophysics, writing scripts or improving my design workflow.
 
