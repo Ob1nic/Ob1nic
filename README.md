@@ -54,7 +54,7 @@
 
 
 
-## Languages I Speak
+## Languages I Speak or Learning
 
 - **English:** Fluent  
 - **中文:** 学习中文    
