@@ -13,7 +13,7 @@
 
 <p align="left">
   <a href="https://www.python.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40" height="40"/>
   </a>
   <a href="https://dotnet.microsoft.com/pt-br/languages/csharp" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="Python" width="40" height="40"/>
