@@ -65,7 +65,7 @@
 
 
 ## 🔗 Find Me Online
-<a href="https://linktr.ee/nicolasob1/" target="blank">
+<a href="https://linktr.ee/nicolasob1/" target="_blank">
     <img src="https://cdn.brandfetch.io/id_tNIm05N/w/400/h/400/theme/dark/icon.png?c=1dxbfHSJFAPEGdCLU4o5B" width="40" height="40"/>
   </a>
 
