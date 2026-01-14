@@ -1,5 +1,5 @@
 
-# Hi, I'm Nicolas! <img src="https://raw.githubusercontent.com/chetachiezikeuzor/chetachiezikeuzor/main/wave.gif" width="30px">
+# Hi! <img src="https://raw.githubusercontent.com/chetachiezikeuzor/chetachiezikeuzor/main/wave.gif" width="30px">
 
 - 💻 Focused on building creative and useful projects. 
 - 📘 Constantly learning and improving, both in programming and in languages.  
