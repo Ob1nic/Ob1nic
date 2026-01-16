@@ -25,9 +25,9 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/960px-JavaScript-logo.png" alt="JavaScript" width="40" height="40"/>
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
+  <!-- <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript" width="40" height="40"/>
-  </a>
+  </a> -->
   <a href="https://react.dev/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="TypeScript" width="40" height="40"/>
   </a>
