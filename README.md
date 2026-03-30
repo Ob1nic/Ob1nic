@@ -13,9 +13,9 @@
   <a href="https://www.python.org/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40" height="40"/>
   </a>
-  <a href="https://dotnet.microsoft.com/pt-br/languages/csharp" target="_blank">
+  <!-- <a href="https://dotnet.microsoft.com/pt-br/languages/csharp" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="Python" width="40" height="40"/>
-  </a>
+  </a> -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="40" height="40"/>
   </a>
