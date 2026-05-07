@@ -29,4 +29,4 @@
 
 
 ## 🔗 Website
-<a href="https://ob1nic.github.io/personal-web/"></a>
+<a href="https://ob1nic.github.io/personal-web/">Website</a>
