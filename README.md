@@ -11,7 +11,21 @@
 ## These are a few languages and tools I use often:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,react,figma,ps,ai" />
+  <!-- big icons -->
+  <img src="https://skillicons.dev/icons?i=python,html,css,js" />
+</p>
+<p align="left">
+  <!-- small icons -->
+  <img 
+    src="https://skillicons.dev/icons?i=cs,react,electron,vite,postgres,nodejs,git,github" 
+    height="30"
+  />
+  <p align="left">
+  <!-- design n org -->
+  <img 
+    src="https://skillicons.dev/icons?i=figma,ps,ai,obsidian,notion" 
+    height="20"
+  />
 </p>
 
 ## Languages I Speak and Learning
