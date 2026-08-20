@@ -2,9 +2,9 @@
 # Hi! <img src="https://raw.githubusercontent.com/chetachiezikeuzor/chetachiezikeuzor/main/wave.gif" width="30px">
 
 ## About Me
-⚡ Currently working on two projects: a mobile app and PC software.
-📘 Studying, writing, and constantly improving in programming and languages.
-🌌 Writing about astronomy, astrophysics, languages, and writing.
+- ⚡ Currently working on two projects: a mobile app and PC software.
+- 📘 Studying, writing, and constantly improving in programming and languages.
+- 🌌 Writing about astronomy, astrophysics, languages, and writing.
 
 
 
