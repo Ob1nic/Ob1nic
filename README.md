@@ -17,7 +17,7 @@
 <p align="left">
   <!-- small icons -->
   <img 
-    src="https://skillicons.dev/icons?i=cs,react,electron,vite<!--,postgres-->,nodejs,git,github" 
+    src="https://skillicons.dev/icons?i=cs,react,electron,vite,nodejs,git,github" <!--,postgres-->
     height="30"
   />
   <p align="left">
