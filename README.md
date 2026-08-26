@@ -12,12 +12,12 @@
 
 <p align="left">
   <!-- big icons -->
-  <img src="https://skillicons.dev/icons?i=python,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=python,cs" />
 </p>
 <p align="left">
   <!-- small icons -->
   <img 
-    src="https://skillicons.dev/icons?i=cs,react,electron,vite,nodejs,git,github"
+    src="https://skillicons.dev/icons?i=html,css,js,react,electron,vite,nodejs,git,github"
     height="30"
   />
   <p align="left">
