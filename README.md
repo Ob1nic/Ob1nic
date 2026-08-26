@@ -23,7 +23,7 @@
   <p align="left">
   <!-- design n org -->
   <img 
-    src="https://skillicons.dev/icons?i=figma,ps,ai,obsidian,notion" 
+    src="https://skillicons.dev/icons?i=ps,ai,obsidian,notion,figma" 
     height="20"
   />
 </p>
