@@ -31,14 +31,13 @@
 ## Languages I Speak and Learning
 
 ![English](https://img.shields.io/badge/English-Fluent-blue?style=for-the-badge)
-![Chinese](https://img.shields.io/badge/中文-Learning-red?style=for-the-badge)
 ![Hebrew](https://img.shields.io/badge/Hebrew-Basic-blue?style=for-the-badge)
 ![Yiddish](https://img.shields.io/badge/Yiddish-Basic-yellow?style=for-the-badge)
-
+![Chinese](https://img.shields.io/badge/中文-Learning-red?style=for-the-badge)
 
 
 ## 🔗 Find Me Online
-<p align="left"> <a href="https://x.com/oldshyrt"> <img src="https://skillicons.dev/icons?i=twitter" /> </a> </p>
+<p align="left"> <a href="https://x.com/oldshyrt"> <img src="https://skillicons.dev/icons?i=twitter" height="30" /> </a> </p>
 
 
 
