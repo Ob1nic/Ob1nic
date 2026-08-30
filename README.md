@@ -17,7 +17,7 @@
 <p align="left">
   <!-- small icons -->
   <img 
-    src="https://skillicons.dev/icons?i=c,cpp,html,css,js,react,electron,vite,nodejs,git,github"
+    src="https://skillicons.dev/icons?i=c,cpp,html,css,js,react,electron,vite,git,github"
     height="30"
   />
   <p align="left">
