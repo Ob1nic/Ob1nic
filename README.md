@@ -1,5 +1,5 @@
 
-# Hi! <img src="https://raw.githubusercontent.com/chetachiezikeuzor/chetachiezikeuzor/main/wave.gif" width="30px">
+# <img src="https://raw.githubusercontent.com/chetachiezikeuzor/chetachiezikeuzor/main/wave.gif" width="30px">
 
 ## About Me
 - ⚡ Currently working on two projects: a mobile app and PC software.
