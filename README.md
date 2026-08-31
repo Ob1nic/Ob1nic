@@ -1,13 +1,6 @@
 
 # <img src="https://raw.githubusercontent.com/chetachiezikeuzor/chetachiezikeuzor/main/wave.gif" width="30px">
 
-## About Me
-- ⚡ Currently working on two projects: a mobile app and PC software.
-- 📘 Studying, writing, and constantly improving in programming and languages.
-- 🌌 Writing about astronomy, astrophysics, languages, and writing.
-
-
-
 ## These are a few languages and tools I use often:
 
 <p align="left">
@@ -34,6 +27,11 @@
 ![Hebrew](https://img.shields.io/badge/Hebrew-Basic-blue?style=for-the-badge)
 ![Yiddish](https://img.shields.io/badge/Yiddish-Basic-yellow?style=for-the-badge)
 ![Chinese](https://img.shields.io/badge/中文-Learning-red?style=for-the-badge)
+
+## About Me
+- ⚡ Currently working on two projects: a mobile app and PC software.
+- 📘 Studying, writing, and constantly improving in programming and languages.
+- 🌌 Writing about astronomy, astrophysics, languages, and writing.
 
 
 ## 🔗 Find Me Online
