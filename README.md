@@ -1,6 +1,5 @@
 
 # <img src="https://raw.githubusercontent.com/chetachiezikeuzor/chetachiezikeuzor/main/wave.gif" width="30px">
-
 ## These are a few languages and tools I use often:
 
 <p align="left">
