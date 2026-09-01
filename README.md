@@ -15,7 +15,7 @@
   <p align="left">
   <!-- design n org -->
   <img 
-    src="https://skillicons.dev/icons?i=ps,ai,obsidian,notion,figma" 
+    src="https://skillicons.dev/icons?i=ps,ai,obsidian,notion,figma,autocad,sketchup," 
     height="20"
   />
 </p>
