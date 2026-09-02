@@ -129,7 +129,7 @@
 <table>
   <tr>
     <td valign="middle">
-      <img src="assets/rpg/5_tools_stone.jpg" width="70" alt="Tools and Software">
+      <img src="assets/rpg/5_tools_stone.jpg" width="80" alt="Tools and Software">
     </td>
     <td valign="middle">
       <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white">
