@@ -127,9 +127,9 @@
   </tr>
 </table>
 
-<table width="70">
+<table>
   <tr>
-    <td valign="middle">
+    <td valign="middle" width="70">
       <img src="assets/rpg/5_tools_stone.jpg" width="60" height="60" alt="Tools and Software">
     </td>
     <td valign="middle">
