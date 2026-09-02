@@ -5,9 +5,9 @@
 <p align="left">
   <!-- big icons -->
   <!-- <img src="https://skillicons.dev/icons?i=python,cs" /> -->
+  <img src="assets\rpg\1_lang_sword.jpg" width="50" alt="Python">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
-  <br>
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-purple?style=flat-square&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
@@ -21,12 +21,15 @@
     src="https://skillicons.dev/icons?i=c,cpp,html,css,js,ts,react,electron,vite,linux,vscode,git,github"
     height="30"
   />-->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white" />
+  <img src="assets\rpg\2_react.jpg" width="50" alt="react">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
   <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <br>
+  <img src="assets\rpg\3_html_suit.jpg" width="50" alt="html">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white" />
 </p>
 <p align="left">
   <!-- design n org -->
@@ -34,6 +37,7 @@
     src="https://skillicons.dev/icons?i=ps,ai,obsidian,notion,figma,autocad,sketchup," 
     height="20"
   /> -->
+    <img src="assets\rpg\4_git_chest.jpg" width="50" alt="git">
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
     <img src="https://img.shields.io/badge/GitHub Pages-417598?style=flat-square&logo=github&logoColor=white" />
