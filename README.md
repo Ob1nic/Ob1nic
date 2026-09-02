@@ -5,6 +5,7 @@
 <p align="left">
   <!-- big icons -->
   <img src="https://skillicons.dev/icons?i=python,cs" />
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 </p>
 <p align="left">
   <!-- small icons -->
