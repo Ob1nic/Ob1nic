@@ -67,12 +67,13 @@
 
 <table>
   <tr>
-    <td valign="middle">
-      <img src="assets/rpg/1_lang_sword.jpg" width="50" alt="Languages">
+    <td valign="middle" width="70">
+      <img src="assets/rpg/1_lang_sword.jpg" width="60" height="60" alt="Languages">
     </td>
     <td valign="middle">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-      <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+      <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white">
+      <br>
       <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white">
       <img src="https://img.shields.io/badge/C%2B%2B-purple?style=flat-square&logo=cplusplus&logoColor=white">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
@@ -85,8 +86,8 @@
 
 <table>
   <tr>
-    <td valign="middle">
-      <img src="assets/rpg/2_react.jpg" width="50" alt="Frameworks">
+    <td valign="middle" width="70">
+      <img src="assets/rpg/2_react.jpg" width="60" height="60" alt="Frameworks">
     </td>
     <td valign="middle">
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
@@ -99,8 +100,8 @@
 
 <table>
   <tr>
-    <td valign="middle">
-      <img src="assets/rpg/3_html_suit.jpg" width="50" alt="Web">
+    <td valign="middle" width="70">
+      <img src="assets/rpg/3_html_suit.jpg" width="60" height="60" alt="Web">
     </td>
     <td valign="middle">
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
@@ -111,8 +112,8 @@
 
 <table>
   <tr>
-    <td valign="middle">
-      <img src="assets/rpg/4_git_chest.jpg" width="50" alt="Version Control and IDE">
+    <td valign="middle" width="70">
+      <img src="assets/rpg/4_git_chest.jpg" width="60" height="60" alt="Version Control and IDE">
     </td>
     <td valign="middle">
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
@@ -126,10 +127,10 @@
   </tr>
 </table>
 
-<table>
+<table width="70">
   <tr>
     <td valign="middle">
-      <img src="assets/rpg/5_tools_stone.jpg" width="90" alt="Tools and Software">
+      <img src="assets/rpg/5_tools_stone.jpg" width="60" height="60" alt="Tools and Software">
     </td>
     <td valign="middle">
       <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white">
