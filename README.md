@@ -47,6 +47,7 @@
     <img src="https://img.shields.io/badge/Visual Studio-A100FF?style=flat-square&logo=visualstudiocode&logoColor=white" />
     <br>
   <p align="left">
+    <img src="assets\rpg\5_tools_stone.jpg" width="50" alt="tools">
     <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
     <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
     <img src="https://img.shields.io/badge/brave-FB542B?style=flat-square&logo=brave&logoColor=white" />
