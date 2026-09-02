@@ -76,7 +76,7 @@
 
 
 ## Find Me Online
-<p align="left"> <a href="https://x.com/oldshyrt" target="_blank" rel=""> <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=x&logoColor=white" /> </a> </p>
+<p align="left"> <a href="https://x.com/oldshyrt"> <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=x&logoColor=white" /> </a> </p>
 
 
 
