@@ -59,7 +59,7 @@
     <img src="https://img.shields.io/badge/autocad-E51050?style=flat-square&logo=autocad&logoColor=white" />
     <img src="https://img.shields.io/badge/autodeskrevit-186BFF?style=flat-square&logo=autodeskrevit&logoColor=white" />
     <img src="https://img.shields.io/badge/sketchup-005F9E?style=flat-square&logo=sketchup&logoColor=white" />
-    <img src="https://img.shields.io/badge/Enscape-19E57F?style=flat-square&logo=Enscape&logoColor=black" />
+    <img src="https://img.shields.io/badge/Enscape-FF9C42?style=flat-square&logo=enscape&logoColor=black" />
     <img src="https://img.shields.io/badge/blender-E87D0D?style=flat-square&logo=blender&logoColor=white" />
     <img src="https://img.shields.io/badge/qbittorrent-2F67BA?style=flat-square&logo=qbittorrent&logoColor=white" />
   </p>
@@ -90,8 +90,8 @@
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
       <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white">
       <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white">
-      <img src="https://img.shields.io/badge/googleappsscript-4285F4?style=flat-square&logo=googleappsscript&logoColor=white">
-      <img src="https://img.shields.io/badge/markdown-000000?style=flat-square&logo=markdown&logoColor=white">
+      <img src="https://img.shields.io/badge/Googleappsscript-4285F4?style=flat-square&logo=googleappsscript&logoColor=white">
+      <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white">
     </td>
   </tr>
 </table>
@@ -118,7 +118,7 @@
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
       <img src="https://img.shields.io/badge/GitHub%20Pages-417598?style=flat-square&logo=github&logoColor=white">
       <img src="https://img.shields.io/badge/GitHub%20Desktop-9933CC?style=flat-square&logo=github&logoColor=white">
-      <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white">
+      <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white">
       <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
       <img src="https://img.shields.io/badge/Visual%20Studio-A100FF?style=flat-square&logo=visualstudiocode&logoColor=white">
     </td>
@@ -133,21 +133,25 @@
     <td valign="middle">
       <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white">
       <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
-      <img src="https://img.shields.io/badge/brave-FB542B?style=flat-square&logo=brave&logoColor=white">
-      <img src="https://img.shields.io/badge/obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white">
-      <img src="https://img.shields.io/badge/bitwarden-175DDC?style=flat-square&logo=bitwarden&logoColor=white">
-      <img src="https://img.shields.io/badge/googlesheets-34A853?style=flat-square&logo=googlesheets&logoColor=white">
-      <img src="https://img.shields.io/badge/googledocs-4285F4?style=flat-square&logo=googledocs&logoColor=white">
-      <img src="https://img.shields.io/badge/obsstudio-302E31?style=flat-square&logo=obsstudio&logoColor=white">
+      <img src="https://img.shields.io/badge/Zorin-15A6F0?style=flat-square&logo=zorin&logoColor=white">
+      <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white">
+      <img src="https://img.shields.io/badge/Archlinux-1793D1?style=flat-square&logo=archlinux&logoColor=white">
+      <img src="https://img.shields.io/badge/Brave-FB542B?style=flat-square&logo=brave&logoColor=white">
+      <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white">
+      <img src="https://img.shields.io/badge/Bitwarden-175DDC?style=flat-square&logo=bitwarden&logoColor=white">
+      <img src="https://img.shields.io/badge/Ente-00BC45?style=flat-square&logo=ente&logoColor=white">
+      <img src="https://img.shields.io/badge/Googlesheets-34A853?style=flat-square&logo=googlesheets&logoColor=white">
+      <img src="https://img.shields.io/badge/Googledocs-4285F4?style=flat-square&logo=googledocs&logoColor=white">
+      <img src="https://img.shields.io/badge/Obsstudio-302E31?style=flat-square&logo=obsstudio&logoColor=white">
       <img src="https://img.shields.io/badge/Adobe-C70D2C?style=flat-square&logo=Adobe&logoColor=white">
-      <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
-      <img src="https://img.shields.io/badge/archicad-2D50A5?style=flat-square&logo=archicad&logoColor=white">
-      <img src="https://img.shields.io/badge/autocad-E51050?style=flat-square&logo=autocad&logoColor=white">
-      <img src="https://img.shields.io/badge/autodeskrevit-186BFF?style=flat-square&logo=autodeskrevit&logoColor=white">
-      <img src="https://img.shields.io/badge/sketchup-005F9E?style=flat-square&logo=sketchup&logoColor=white">
-      <img src="https://img.shields.io/badge/Enscape-19E57F?style=flat-square&logo=Enscape&logoColor=black">
-      <img src="https://img.shields.io/badge/blender-E87D0D?style=flat-square&logo=blender&logoColor=white">
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
       <img src="https://img.shields.io/badge/qbittorrent-2F67BA?style=flat-square&logo=qbittorrent&logoColor=white">
+      <img src="https://img.shields.io/badge/Archicad-2D50A5?style=flat-square&logo=archicad&logoColor=white">
+      <img src="https://img.shields.io/badge/Autocad-E51050?style=flat-square&logo=autocad&logoColor=white">
+      <img src="https://img.shields.io/badge/Autodeskrevit-186BFF?style=flat-square&logo=autodeskrevit&logoColor=white">
+      <img src="https://img.shields.io/badge/Sketchup-005F9E?style=flat-square&logo=sketchup&logoColor=white">
+      <img src="https://img.shields.io/badge/Enscape-FF9C42?style=flat-square&logo=Enscape&logoColor=white">
+      <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white">
     </td>
   </tr>
 </table>
