@@ -179,10 +179,4 @@
 
 
 ## Find Me Online
-<a href="https://x.com/oldshyrt" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=x&logoColor=white">
-</a>
-
-
-## Website
-<a href="https://ob1nic.github.io/personal-web/">Website</a>
+<a href="https://x.com/oldshyrt" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=x&logoColor=white"> </a> <a href="https://ob1nic.github.io/personal-web/" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=brave&logoColor=white"> </a> <a href="mailto:SEU_EMAIL"> <img src="https://img.shields.io/badge/baruch.c.jedi@gmail.com-000000?style=flat-square&logo=minutemailer&logoColor=white"> </a>
