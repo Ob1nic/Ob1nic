@@ -1,5 +1,5 @@
 
-# <img src="https://raw.githubusercontent.com/chetachiezikeuzor/chetachiezikeuzor/main/wave.gif" width="30px">
+<!-- # <img src="https://raw.githubusercontent.com/chetachiezikeuzor/chetachiezikeuzor/main/wave.gif" width="30px"> -->
 ## These are a few languages and tools I use often:
 <!--OLD ONE-->
 <!--
@@ -65,10 +65,11 @@
   </p>
   -->
 
+<h3>Programming, Frameworks and Libraries</h3>
 <table>
   <tr>
     <td valign="middle" width="70">
-      <img src="assets/rpg/1_lang_sword.jpg" width="60" height="60" alt="Languages">
+      <img src="assets/rpg/1.png" width="60" height="60" alt="Languages">
     </td>
     <td valign="middle">
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
@@ -80,7 +81,7 @@
 <table>
   <tr>
     <td valign="middle" width="70">
-      <img src="assets/rpg/2_react.jpg" width="60" height="60" alt="Frameworks">
+      <img src="assets/rpg/2.png" width="60" height="60" alt="Frameworks">
     </td>
     <td valign="middle">
       <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white">
@@ -91,11 +92,11 @@
       <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white">
       <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white">
       <img src="https://img.shields.io/badge/Googleappsscript-4285F4?style=flat-square&logo=googleappsscript&logoColor=white">
-      <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white">
     </td>
   </tr>
 </table>
 
+<h3>Markup Languages</h3>
 <table>
   <tr>
     <td valign="middle" width="70">
@@ -104,10 +105,12 @@
     <td valign="middle">
       <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white">
       <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white">
+      <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white">
     </td>
   </tr>
 </table>
 
+<h3>Version Control and Development</h3>
 <table>
   <tr>
     <td valign="middle" width="70">
@@ -118,13 +121,14 @@
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
       <img src="https://img.shields.io/badge/GitHub%20Pages-417598?style=flat-square&logo=github&logoColor=white">
       <img src="https://img.shields.io/badge/GitHub%20Desktop-9933CC?style=flat-square&logo=github&logoColor=white">
-      <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white">
+      <img src="https://img.shields.io/badge/sublimetext-FF9800?style=flat-square&logo=sublimetext&logoColor=white">
       <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
       <img src="https://img.shields.io/badge/Visual%20Studio-A100FF?style=flat-square&logo=visualstudiocode&logoColor=white">
     </td>
   </tr>
 </table>
 
+<h3>Software and Tools</h3>
 <table>
   <tr>
     <td valign="middle" width="70">
@@ -136,7 +140,9 @@
       <img src="https://img.shields.io/badge/Zorin-15A6F0?style=flat-square&logo=zorin&logoColor=white">
       <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white">
       <img src="https://img.shields.io/badge/Archlinux-1793D1?style=flat-square&logo=archlinux&logoColor=white">
+      <img src="https://img.shields.io/badge/tor-7D4698?style=flat-square&logo=torproject&logoColor=white">
       <img src="https://img.shields.io/badge/Brave-FB542B?style=flat-square&logo=brave&logoColor=white">
+      <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white">
       <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white">
       <img src="https://img.shields.io/badge/Bitwarden-175DDC?style=flat-square&logo=bitwarden&logoColor=white">
       <img src="https://img.shields.io/badge/Ente-00BC45?style=flat-square&logo=ente&logoColor=white">
@@ -146,6 +152,7 @@
       <img src="https://img.shields.io/badge/Adobe-C70D2C?style=flat-square&logo=Adobe&logoColor=white">
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
       <img src="https://img.shields.io/badge/qbittorrent-2F67BA?style=flat-square&logo=qbittorrent&logoColor=white">
+      <img src="https://img.shields.io/badge/utorrent-76B83F?style=flat-square&logo=utorrent&logoColor=white">
       <img src="https://img.shields.io/badge/Archicad-2D50A5?style=flat-square&logo=archicad&logoColor=white">
       <img src="https://img.shields.io/badge/Autocad-E51050?style=flat-square&logo=autocad&logoColor=white">
       <img src="https://img.shields.io/badge/Autodeskrevit-186BFF?style=flat-square&logo=autodeskrevit&logoColor=white">
@@ -166,14 +173,15 @@
 ![Yiddish](https://img.shields.io/badge/Yiddish-Basic-764ABC?style=flat-square&logo=Color=white)
 
 ## About Me
-- ⚡ Currently working on two projects: a mobile app and PC software.
-- 📘 Studying, writing, and constantly improving in programming and languages.
-- 🌌 Writing about astronomy, astrophysics, languages, and writing.
+- Currently working on two projects: a mobile app and PC software.
+- Studying, writing, and constantly improving in programming and languages.
+- Writing about astronomy, astrophysics, languages, and writing.
 
 
 ## Find Me Online
-<p align="left"> <a href="https://x.com/oldshyrt"> <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=x&logoColor=white" /> </a> </p>
-
+<a href="https://x.com/oldshyrt" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=x&logoColor=white">
+</a>
 
 
 ## Website
