@@ -146,6 +146,7 @@
       <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white">
       <img src="https://img.shields.io/badge/Bitwarden-175DDC?style=flat-square&logo=bitwarden&logoColor=white">
       <img src="https://img.shields.io/badge/Ente-00BC45?style=flat-square&logo=ente&logoColor=white">
+      <img src="https://img.shields.io/badge/Ente-7C3AED?style=flat-square&logo=ente&logoColor=white">
       <img src="https://img.shields.io/badge/Googlesheets-34A853?style=flat-square&logo=googlesheets&logoColor=white">
       <img src="https://img.shields.io/badge/Googledocs-4285F4?style=flat-square&logo=googledocs&logoColor=white">
       <img src="https://img.shields.io/badge/Obsstudio-302E31?style=flat-square&logo=obsstudio&logoColor=white">
@@ -179,4 +180,4 @@
 
 
 ## Find Me Online
-<a href="https://x.com/oldshyrt" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=x&logoColor=white"> </a> <a href="https://ob1nic.github.io/personal-web/" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=brave&logoColor=white"> </a> <a href="mailto:SEU_EMAIL"> <img src="https://img.shields.io/badge/baruch.c.jedi@gmail.com-000000?style=flat-square&logo=minutemailer&logoColor=white"> </a>
+<a href="https://x.com/oldshyrt" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=x&logoColor=white"> </a> <a href="https://ob1nic.github.io/personal-web/" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=brave&logoColor=white"> </a> <a href="mailto:SEU_EMAIL"> <img src="https://img.shields.io/badge/baruch.c.jedi@gmail.com-000000?style=flat-square&logo=gmail&logoColor=white"> </a>
