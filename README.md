@@ -72,8 +72,7 @@
       <img src="assets/rpg/1.png" width="60" height="60" alt="Languages">
     </td>
     <td valign="middle">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-      <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white">
+      <img src="https://custom-icon-badges.demolab.com/badge/Python-03599C.svg?logo=python&logoColor=white">
     </td>
   </tr>
 </table>
@@ -84,14 +83,15 @@
       <img src="assets/rpg/2.png" width="60" height="60" alt="Frameworks">
     </td>
     <td valign="middle">
-      <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white">
-      <img src="https://img.shields.io/badge/C%2B%2B-purple?style=flat-square&logo=cplusplus&logoColor=white">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
-      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white">
-      <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white">
-      <img src="https://img.shields.io/badge/Googleappsscript-4285F4?style=flat-square&logo=googleappsscript&logoColor=white">
+      <img src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white">
+      <img src="https://custom-icon-badges.demolab.com/badge/C++-1572B6.svg?logo=cpp2&logoColor=white">
+      <img src="https://custom-icon-badges.demolab.com/badge/C%23-purple.svg?logo=cs2&logoColor=white">
+      <img src="https://custom-icon-badges.demolab.com/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
+      <img src="https://custom-icon-badges.demolab.com/badge/TypeScript-3178C6?logo=typescript&logoColor=white">
+      <img src="https://custom-icon-badges.demolab.com/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB">
+      <img src="https://custom-icon-badges.demolab.com/badge/Vite-646CFF?logo=vite&logoColor=white">
+      <img src="https://custom-icon-badges.demolab.com/badge/Electron-20232a?logo=electron&logoColor=white">
+      <img src="https://custom-icon-badges.demolab.com/badge/Googleappsscript-4285F4?logo=googleappsscript&logoColor=white">
     </td>
   </tr>
 </table>
@@ -103,9 +103,9 @@
       <img src="assets/rpg/3_html_suit.jpg" width="60" height="60" alt="Web">
     </td>
     <td valign="middle">
-      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white">
-      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white">
-      <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white">
+      <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white">
+      <img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white">
+      <img src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white">
     </td>
   </tr>
 </table>
@@ -117,13 +117,14 @@
       <img src="assets/rpg/4_git_chest.jpg" width="60" height="60" alt="Version Control and IDE">
     </td>
     <td valign="middle">
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
-      <img src="https://img.shields.io/badge/GitHub%20Pages-417598?style=flat-square&logo=github&logoColor=white">
-      <img src="https://img.shields.io/badge/GitHub%20Desktop-9933CC?style=flat-square&logo=github&logoColor=white">
-      <img src="https://img.shields.io/badge/sublimetext-FF9800?style=flat-square&logo=sublimetext&logoColor=white">
-      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
-      <img src="https://img.shields.io/badge/Visual%20Studio-A100FF?style=flat-square&logo=visualstudiocode&logoColor=white">
+      <img src="https://custom-icon-badges.demolab.com/badge/Git-F05032.svg?logo=git&logoColor=white">
+      <img src="https://custom-icon-badges.demolab.com/badge/GitHub-181717.svg?logo=github&logoColor=white">
+      <img src="https://img.shields.io/badge/GitHub%20Pages-417598?style=logo=github&logoColor=white">
+      <img src="https://img.shields.io/badge/GitHub%20Desktop-9933CC?logo=github&logoColor=white">
+      <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white">
+      <img src="https://img.shields.io/badge/Visual%20Studio-A100FF?logo=visualstudiocode&logoColor=white">
+      <img src="https://img.shields.io/badge/sublimetext-FF9800?logo=sublimetext&logoColor=white">
+      <img src="https://img.shields.io/badge/PyCharm-181717?logo=pyCharm&logoColor=white">
     </td>
   </tr>
 </table>
@@ -135,31 +136,31 @@
       <img src="assets/rpg/5_tools_stone.jpg" width="60" height="60" alt="Tools and Software">
     </td>
     <td valign="middle">
-      <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white">
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
-      <img src="https://img.shields.io/badge/Zorin-15A6F0?style=flat-square&logo=zorin&logoColor=white">
-      <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white">
-      <img src="https://img.shields.io/badge/Archlinux-1793D1?style=flat-square&logo=archlinux&logoColor=white">
-      <img src="https://img.shields.io/badge/tor-7D4698?style=flat-square&logo=torproject&logoColor=white">
-      <img src="https://img.shields.io/badge/Brave-FB542B?style=flat-square&logo=brave&logoColor=white">
-      <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white">
-      <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white">
-      <img src="https://img.shields.io/badge/Bitwarden-175DDC?style=flat-square&logo=bitwarden&logoColor=white">
-      <img src="https://img.shields.io/badge/Ente-00BC45?style=flat-square&logo=ente&logoColor=white">
-      <img src="https://img.shields.io/badge/Ente-7C3AED?style=flat-square&logo=ente&logoColor=white">
-      <img src="https://img.shields.io/badge/Googlesheets-34A853?style=flat-square&logo=googlesheets&logoColor=white">
-      <img src="https://img.shields.io/badge/Googledocs-4285F4?style=flat-square&logo=googledocs&logoColor=white">
-      <img src="https://img.shields.io/badge/Obsstudio-302E31?style=flat-square&logo=obsstudio&logoColor=white">
-      <img src="https://img.shields.io/badge/Adobe-C70D2C?style=flat-square&logo=Adobe&logoColor=white">
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
-      <img src="https://img.shields.io/badge/qbittorrent-2F67BA?style=flat-square&logo=qbittorrent&logoColor=white">
-      <img src="https://img.shields.io/badge/utorrent-76B83F?style=flat-square&logo=utorrent&logoColor=white">
-      <img src="https://img.shields.io/badge/Archicad-2D50A5?style=flat-square&logo=archicad&logoColor=white">
-      <img src="https://img.shields.io/badge/Autocad-E51050?style=flat-square&logo=autocad&logoColor=white">
-      <img src="https://img.shields.io/badge/Autodeskrevit-186BFF?style=flat-square&logo=autodeskrevit&logoColor=white">
-      <img src="https://img.shields.io/badge/Sketchup-005F9E?style=flat-square&logo=sketchup&logoColor=white">
-      <img src="https://img.shields.io/badge/Enscape-FF9C42?style=flat-square&logo=Enscape&logoColor=white">
-      <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white">
+      <img src="https://custom-icon-badges.demolab.com/badge/Windows-181717.svg?logo=windows&logoColor=white">
+      <img src="https://custom-icon-badges.demolab.com/badge/Linux-FCC624.svg?logo=linux&logoColor=black">
+      <img src="https://custom-icon-badges.demolab.com/badge/Zorin-15A6F0.svg?logo=zorin&logoColor=white">
+      <img src="https://custom-icon-badges.demolab.com/badge/Ubuntu-E95420.svg?logo=ubuntu&logoColor=white">
+      <img src="https://custom-icon-badges.demolab.com/badge/Archlinux-1793D1.svg?logo=archlinux&logoColor=white">
+      <img src="https://custom-icon-badges.demolab.com/badge/Tor-7D4698.svg?logo=torproject&logoColor=white">
+      <img src="https://custom-icon-badges.demolab.com/badge/Brave-FB542B.svg?logo=brave&logoColor=white">
+      <img src="https://custom-icon-badges.demolab.com/badge/Notion-000000.svg?logo=notion&logoColor=white">
+      <img src="https://custom-icon-badges.demolab.com/badge/Obsidian-7C3AED.svg?logo=obsidian&logoColor=white">
+      <img src="https://custom-icon-badges.demolab.com/badge/Bitwarden-175DDC.svg?logo=bitwarden&logoColor=white">
+      <img src="https://custom-icon-badges.demolab.com/badge/Ente-00BC45.svg?logo=ente&logoColor=white">
+      <img src="https://custom-icon-badges.demolab.com/badge/Ente-7C3AED.svg?logo=ente&logoColor=white">
+      <img src="https://custom-icon-badges.demolab.com/badge/Google%20Sheets-34A853.svg?logo=googlesheets&logoColor=white">
+      <img src="https://custom-icon-badges.demolab.com/badge/Google%20Docs-4285F4.svg?logo=googledocs&logoColor=white">
+      <img src="https://custom-icon-badges.demolab.com/badge/OBS%20Studio-302E31.svg?logo=obsstudio&logoColor=white">
+      <img src="https://custom-icon-badges.demolab.com/badge/Adobe-C70D2C.svg?logo=adobe&logoColor=white">
+      <img src="https://custom-icon-badges.demolab.com/badge/Figma-F24E1E.svg?logo=figma&logoColor=white">
+      <img src="https://custom-icon-badges.demolab.com/badge/qBittorrent-2F67BA.svg?logo=qbittorrent&logoColor=white">
+      <img src="https://custom-icon-badges.demolab.com/badge/uTorrent-76B83F.svg?logo=utorrent&logoColor=white">
+      <img src="https://custom-icon-badges.demolab.com/badge/Archicad-2D50A5.svg?logo=archicad&logoColor=white">
+      <img src="https://custom-icon-badges.demolab.com/badge/AutoCAD-181717.svg?logo=autocad&logoColor=white">
+      <img src="https://custom-icon-badges.demolab.com/badge/Autodesk%20Revit-186BFF.svg?logo=autodeskrevit&logoColor=white">
+      <img src="https://custom-icon-badges.demolab.com/badge/SketchUp-005F9E.svg?logo=sketchup&logoColor=white">
+      <img src="https://custom-icon-badges.demolab.com/badge/Enscape-FF9C42.svg?logo=enscape&logoColor=white">
+      <img src="https://custom-icon-badges.demolab.com/badge/Blender-E87D0D.svg?logo=blender&logoColor=white">
     </td>
   </tr>
 </table>
@@ -168,10 +169,10 @@
 
 ## Languages I Speak and Learning
 
-![English](https://img.shields.io/badge/English-Fluent-204ECF?style=flat-square&logo=Color=white)
-![Chinese](https://img.shields.io/badge/中文-Learning-B32629?style=flat-square&logo=Color=white)
-![Hebrew](https://img.shields.io/badge/Hebrew-Basic-3B82F6?style=flat-square&logo=Color=white)
-![Yiddish](https://img.shields.io/badge/Yiddish-Basic-764ABC?style=flat-square&logo=Color=white)
+![English](https://img.shields.io/badge/English-Fluent-204ECF?logo=Color=white)
+![Chinese](https://img.shields.io/badge/中文-Learning-B32629?logo=Color=white)
+![Hebrew](https://img.shields.io/badge/Hebrew-Basic-3B82F6?logo=Color=white)
+![Yiddish](https://img.shields.io/badge/Yiddish-Basic-764ABC?logo=Color=white)
 
 ## About Me
 - Currently working on two projects: a mobile app and PC software.
@@ -180,4 +181,4 @@
 
 
 ## Find Me Online
-<a href="https://x.com/oldshyrt" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=x&logoColor=white"> </a> <a href="https://ob1nic.github.io/personal-web/" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=brave&logoColor=white"> </a> <a href="mailto:SEU_EMAIL"> <img src="https://img.shields.io/badge/baruch.c.jedi@gmail.com-000000?style=flat-square&logo=gmail&logoColor=white"> </a>
+<a href="https://x.com/oldshyrt" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/-000000?logo=x&logoColor=white"> </a> <a href="https://ob1nic.github.io/personal-web/" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/Website-000000?logo=brave&logoColor=white"> </a> <a href="mailto:EMAIL"> <img src="https://img.shields.io/badge/baruch.c.jedi@gmail.com-000000?logo=gmail&logoColor=white"> </a>
