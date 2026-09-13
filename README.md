@@ -142,7 +142,12 @@
       <img src="https://custom-icon-badges.demolab.com/badge/Ubuntu-E95420.svg?logo=ubuntu&logoColor=white">
       <img src="https://custom-icon-badges.demolab.com/badge/Archlinux-1793D1.svg?logo=archlinux&logoColor=white">
       <img src="https://custom-icon-badges.demolab.com/badge/Tor-7D4698.svg?logo=torproject&logoColor=white">
+      <img src="https://custom-icon-badges.demolab.com/badge/Android-3DDC84.svg?logo=android&logoColor=white">
+      <img src="https://custom-icon-badges.demolab.com/badge/Android Studio-173B3F.svg?logo=androidstudio&logoColor=white">
+      <img src="https://custom-icon-badges.demolab.com/badge/Xiaomi-FF6900.svg?logo=xiaomi&logoColor=white">
+      <img src="https://custom-icon-badges.demolab.com/badge/Arxiv-B31B1B.svg?logo=arxiv&logoColor=white">      
       <img src="https://custom-icon-badges.demolab.com/badge/Brave-FB542B.svg?logo=brave&logoColor=white">
+      <img src="https://custom-icon-badges.demolab.com/badge/Duckduckgo-DE5833.svg?logo=duckduckgo&logoColor=white">
       <img src="https://custom-icon-badges.demolab.com/badge/Notion-000000.svg?logo=notion&logoColor=white">
       <img src="https://custom-icon-badges.demolab.com/badge/Obsidian-7C3AED.svg?logo=obsidian&logoColor=white">
       <img src="https://custom-icon-badges.demolab.com/badge/Bitwarden-175DDC.svg?logo=bitwarden&logoColor=white">
@@ -181,4 +186,4 @@
 
 
 ## Find Me Online
-<a href="https://x.com/oldshyrt" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/-000000?logo=x&logoColor=white"> </a> <a href="https://ob1nic.github.io/personal-web/" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/Website-000000?logo=brave&logoColor=white"> </a> <a href="mailto:EMAIL"> <img src="https://img.shields.io/badge/baruch.c.jedi@gmail.com-000000?logo=gmail&logoColor=white"> </a>
+<a href="https://x.com/oldshyrt" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/-000000?logo=x&logoColor=white"> </a> <a href="https://ob1nic.github.io/personal-web/" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/Website-000000?logo=brave&logoColor=white"> </a> <a href="mailto:EMAIL"> <img src="https://img.shields.io/badge/baruch.c.jedi@gmail.com-000000?logo=gmail&logoColor=white"> </a> <a href="" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/Rednote-FF2442?logo=xiaohongshu&logoColor=white"> </a>
