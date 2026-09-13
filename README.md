@@ -119,7 +119,7 @@
     <td valign="middle">
       <img src="https://custom-icon-badges.demolab.com/badge/Git-F05032.svg?logo=git&logoColor=white">
       <img src="https://custom-icon-badges.demolab.com/badge/GitHub-181717.svg?logo=github&logoColor=white">
-      <img src="https://img.shields.io/badge/GitHub%20Pages-417598?style=logo=github&logoColor=white">
+      <img src="https://custom-icon-badges.demolab.com/badge/GitHub Pages-417598.svg?logo=github&logoColor=white">
       <img src="https://img.shields.io/badge/GitHub%20Desktop-9933CC?logo=github&logoColor=white">
       <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white">
       <img src="https://img.shields.io/badge/Visual%20Studio-A100FF?logo=visualstudiocode&logoColor=white">
