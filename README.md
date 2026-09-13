@@ -121,8 +121,8 @@
       <img src="https://custom-icon-badges.demolab.com/badge/GitHub-181717.svg?logo=github&logoColor=white">
       <img src="https://custom-icon-badges.demolab.com/badge/GitHub Pages-417598.svg?logo=github&logoColor=white">
       <img src="https://img.shields.io/badge/GitHub%20Desktop-9933CC?logo=github&logoColor=white">
-      <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white">
-      <img src="https://img.shields.io/badge/Visual%20Studio-A100FF?logo=visualstudiocode&logoColor=white">
+      <img src="https://custom-icon-badges.demolab.com/badge/Visual Studio Code-007ACC.svg?logo=visualstudiocode&logoColor=white">
+      <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?logo=visualstudio&logoColor=white">
       <img src="https://img.shields.io/badge/sublimetext-FF9800?logo=sublimetext&logoColor=white">
       <img src="https://img.shields.io/badge/PyCharm-181717?logo=pyCharm&logoColor=white">
     </td>
@@ -142,6 +142,7 @@
       <img src="https://custom-icon-badges.demolab.com/badge/Ubuntu-E95420.svg?logo=ubuntu&logoColor=white">
       <img src="https://custom-icon-badges.demolab.com/badge/Archlinux-1793D1.svg?logo=archlinux&logoColor=white">
       <img src="https://custom-icon-badges.demolab.com/badge/Tor-7D4698.svg?logo=torproject&logoColor=white">
+      <img src="https://custom-icon-badges.demolab.com/badge/Nostr-fff.svg?logo=nostr&logoColor=purple">
       <img src="https://custom-icon-badges.demolab.com/badge/Android-3DDC84.svg?logo=android&logoColor=white">
       <img src="https://custom-icon-badges.demolab.com/badge/Android Studio-173B3F.svg?logo=androidstudio&logoColor=white">
       <img src="https://custom-icon-badges.demolab.com/badge/Xiaomi-FF6900.svg?logo=xiaomi&logoColor=white">
@@ -186,4 +187,12 @@
 
 
 ## Find Me Online
-<a href="https://x.com/oldshyrt" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/-000000?logo=x&logoColor=white"> </a> <a href="https://ob1nic.github.io/personal-web/" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/Website-000000?logo=brave&logoColor=white"> </a> <a href="mailto:EMAIL"> <img src="https://img.shields.io/badge/baruch.c.jedi@gmail.com-000000?logo=gmail&logoColor=white"> </a> <a href="" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/Rednote-FF2442?logo=xiaohongshu&logoColor=white"> </a>
+<p align="left">
+<a href="https://x.com/oldshyrt" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/-000000?logo=x&logoColor=white"> </a>
+<a href="https://ob1nic.github.io/personal-web/" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/Website-000000?logo=brave&logoColor=white"> </a>
+<a href="mailto:EMAIL"> <img src="https://img.shields.io/badge/baruch.c.jedi@gmail.com-000000?logo=gmail&logoColor=white">
+<a href="https://steamcommunity.com/profiles/76561198261043563" target="_blank" rel="noopener noreferrer"> <img src="https://custom-icon-badges.demolab.com/badge/Steam-003791.svg?logo=steam&logoColor=white"> </a>
+<img src="https://custom-icon-badges.demolab.com/badge/Dextroill-0070D1.svg?logo=playstation&logoColor=white">
+<img src="https://custom-icon-badges.demolab.com/badge/Dextroill-107C10.svg?logo=xbox&logoColor=white">  
+<img src="https://custom-icon-badges.demolab.com/badge/Dextroill-186BFF.svg?logo=battledotnet&logoColor=white">
+</p>
