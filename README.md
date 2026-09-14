@@ -123,7 +123,7 @@
       <img src="https://img.shields.io/badge/GitHub%20Desktop-9933CC?logo=github&logoColor=white">
       <img src="https://custom-icon-badges.demolab.com/badge/Visual Studio Code-007ACC.svg?logo=visualstudiocode&logoColor=white">
       <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?logo=visualstudio&logoColor=white">
-      <img src="https://img.shields.io/badge/sublimetext-FF9800?logo=sublimetext&logoColor=white">
+      <img src="https://img.shields.io/badge/Sublimetext-FF9800?logo=sublimetext&logoColor=white">
       <img src="https://img.shields.io/badge/PyCharm-181717?logo=pyCharm&logoColor=white">
     </td>
   </tr>
@@ -142,7 +142,7 @@
       <img src="https://custom-icon-badges.demolab.com/badge/Ubuntu-E95420.svg?logo=ubuntu&logoColor=white">
       <img src="https://custom-icon-badges.demolab.com/badge/Archlinux-1793D1.svg?logo=archlinux&logoColor=white">
       <img src="https://custom-icon-badges.demolab.com/badge/Tor-7D4698.svg?logo=torproject&logoColor=white">
-      <img src="https://custom-icon-badges.demolab.com/badge/Nostr-fff.svg?logo=nostr&logoColor=purple">
+      <img src="https://custom-icon-badges.demolab.com/badge/Nostr-662482.svg?logo=nostr-icon-white-transparent&logoColor=purple">
       <img src="https://custom-icon-badges.demolab.com/badge/Android-3DDC84.svg?logo=android&logoColor=white">
       <img src="https://custom-icon-badges.demolab.com/badge/Android Studio-173B3F.svg?logo=androidstudio&logoColor=white">
       <img src="https://custom-icon-badges.demolab.com/badge/Xiaomi-FF6900.svg?logo=xiaomi&logoColor=white">
