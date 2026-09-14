@@ -142,7 +142,7 @@
       <img src="https://custom-icon-badges.demolab.com/badge/Ubuntu-E95420.svg?logo=ubuntu&logoColor=white">
       <img src="https://custom-icon-badges.demolab.com/badge/Archlinux-1793D1.svg?logo=archlinux&logoColor=white">
       <img src="https://custom-icon-badges.demolab.com/badge/Tor-7D4698.svg?logo=torproject&logoColor=white">
-      <img src="https://custom-icon-badges.demolab.com/badge/Nostr-662482.svg?logo=nostr-icon-white-transparent&logoColor=purple">
+      <img src="https://custom-icon-badges.demolab.com/badge/Nostr-fff.svg?logo=nostr-icon-white-transparent&logoColor=purple">
       <img src="https://custom-icon-badges.demolab.com/badge/Android-3DDC84.svg?logo=android&logoColor=white">
       <img src="https://custom-icon-badges.demolab.com/badge/Android Studio-173B3F.svg?logo=androidstudio&logoColor=white">
       <img src="https://custom-icon-badges.demolab.com/badge/Xiaomi-FF6900.svg?logo=xiaomi&logoColor=white">
