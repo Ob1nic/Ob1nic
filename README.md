@@ -123,8 +123,9 @@
       <img src="https://img.shields.io/badge/GitHub%20Desktop-9933CC?logo=github&logoColor=white">
       <img src="https://custom-icon-badges.demolab.com/badge/Visual Studio Code-007ACC.svg?logo=visualstudiocode&logoColor=white">
       <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?logo=visualstudio&logoColor=white">
-      <img src="https://img.shields.io/badge/Sublimetext-FF9800?logo=sublimetext&logoColor=black">
-      <img src="https://img.shields.io/badge/PyCharm-AAFF89?logo=pyCharm&logoColor=black">
+      <img src="https://img.shields.io/badge/PyCharm-24A47F?logo=pyCharm&logoColor=white">
+      <img src="https://img.shields.io/badge/Sublimetext-FF9800?logo=sublimetext&logoColor=white">
+      <img src="https://img.shields.io/badge/Notepad++-AAFF89?logo=notepadplusplus&logoColor=black">
     </td>
   </tr>
 </table>
