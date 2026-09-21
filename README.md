@@ -130,7 +130,7 @@
   </tr>
 </table>
 
-<h3>AI (Striving Fluency)</h3>
+<h3>Artificial Intelligence (Striving Fluency)</h3>
 <table>
   <tr>
     <td valign="middle" width="70">
