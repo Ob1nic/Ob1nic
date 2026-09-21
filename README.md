@@ -130,6 +130,22 @@
   </tr>
 </table>
 
+<h3>AI (Striving Fluency)</h3>
+<table>
+  <tr>
+    <td valign="middle" width="70">
+      <img src="assets/rpg/1_lang_sword.jpg" width="60" height="60" alt="Web">
+    </td>
+    <td valign="middle">
+      <img src="https://img.shields.io/badge/Machine Learning-512BD4?logo=googlegemini&logoColor=white">
+      <img src="https://img.shields.io/badge/Deep Learning-512BD4?logo=googlegemini&logoColor=white">
+      <img src="https://img.shields.io/badge/Generative AI/Prompt fluent-512BD4?logo=googlegemini&logoColor=white">
+      <img src="https://img.shields.io/badge/Large Language Model-512BD4?logo=googlegemini&logoColor=white">
+      <img src="https://img.shields.io/badge/Foundation Model-512BD4?logo=googlegemini&logoColor=white">
+    </td>
+  </tr>
+</table>
+
 <h3>Software and Tools</h3>
 <table>
   <tr>
