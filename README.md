@@ -73,16 +73,6 @@
     </td>
     <td valign="middle">
       <img src="https://custom-icon-badges.demolab.com/badge/Python-03599C.svg?logo=python&logoColor=white">
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td valign="middle" width="70">
-      <img src="assets/rpg/2.png" width="60" height="60" alt="Frameworks">
-    </td>
-    <td valign="middle">
       <img src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white">
       <img src="https://custom-icon-badges.demolab.com/badge/C++-1572B6.svg?logo=cpp2&logoColor=white">
       <img src="https://custom-icon-badges.demolab.com/badge/C%23-purple.svg?logo=cs2&logoColor=white">
@@ -188,20 +178,20 @@
   </tr>
 </table>
 
-    
+## Projects
 
-## Languages I Speak and Learning
+<img src="https://custom-icon-badges.demolab.com/badge/Coming soon...-00BC45.svg?logo=&logoColor=white">
 
-![English](https://img.shields.io/badge/English-Fluent-204ECF?logo=Color=white)
-![Chinese](https://img.shields.io/badge/中文-Learning-B32629?logo=Color=white)
-![Hebrew](https://img.shields.io/badge/Hebrew-Basic-3B82F6?logo=Color=white)
-![Yiddish](https://img.shields.io/badge/Yiddish-Basic-764ABC?logo=Color=white)
-
-## About Me
 - Currently working on two projects: a mobile app and PC software.
 - Studying, writing, and constantly improving in programming and languages.
 - Writing about astronomy, astrophysics, languages, and writing.
 
+## Languages I Speak and Learning
+
+![English](https://img.shields.io/badge/English-Advanced-204ECF?logo=Color=white)
+![Chinese](https://img.shields.io/badge/中文-Learning-B32629?logo=Color=white)
+![Hebrew](https://img.shields.io/badge/Hebrew-Basic-3B82F6?logo=Color=white)
+![Yiddish](https://img.shields.io/badge/Yiddish-Basic-764ABC?logo=Color=white)
 
 ## Find Me Online
 <p align="left">
