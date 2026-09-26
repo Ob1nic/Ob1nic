@@ -195,9 +195,6 @@
 
 ## Find Me Online
 <p align="left">
-<a href="https://x.com/oldshyrt" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/-000000?logo=x&logoColor=white"> </a>
-<a href="https://ob1nic.github.io/personal-web/" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/Website-000000?logo=brave&logoColor=white"> </a>
-<a href="mailto:EMAIL"> <img src="https://img.shields.io/badge/baruch.c.jedi@gmail.com-000000?logo=gmail&logoColor=white">
 <a href="https://bcartino.artstation.com/" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/Artstation-13AFF0?logo=artstation&logoColor=white"> </a>
 <a href="https://steamcommunity.com/profiles/76561198261043563" target="_blank" rel="noopener noreferrer"> <img src="https://custom-icon-badges.demolab.com/badge/Steam-003791.svg?logo=steam&logoColor=white"> </a>
 <img src="https://custom-icon-badges.demolab.com/badge/Dextroill-0070D1.svg?logo=playstation&logoColor=white">
