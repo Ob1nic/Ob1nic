@@ -78,6 +78,7 @@
       <img src="https://custom-icon-badges.demolab.com/badge/C%23-purple.svg?logo=cs2&logoColor=white">
       <img src="https://custom-icon-badges.demolab.com/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
       <img src="https://custom-icon-badges.demolab.com/badge/TypeScript-3178C6?logo=typescript&logoColor=white">
+      <br>
       <img src="https://custom-icon-badges.demolab.com/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB">
       <img src="https://custom-icon-badges.demolab.com/badge/Vite-646CFF?logo=vite&logoColor=white">
       <img src="https://custom-icon-badges.demolab.com/badge/Electron-20232a?logo=electron&logoColor=white">
@@ -177,6 +178,23 @@
     </td>
   </tr>
 </table>
+
+<!--
+## Challenges
+
+<h3>Google KickStarter</h3>
+<p align="left">
+  <img src="https://custom-icon-badges.demolab.com/badge/-4285F4.svg?logo=google&logoColor=white" width="50">
+  <img src="https://custom-icon-badges.demolab.com/badge/-53FC19.svg?logo=kickstarter&logoColor=white" width="50">
+</p>
+
+<h3>LeetCode, CodeWars and HackerRank</h3>
+<p align="left">
+  <img src="https://custom-icon-badges.demolab.com/badge/-FFA116.svg?logo=leetcode&logoColor=white" width="50">
+  <img src="https://custom-icon-badges.demolab.com/badge/-B1361E.svg?logo=codewars&logoColor=black" width="50">
+  <img src="https://custom-icon-badges.demolab.com/badge/-00EA64.svg?logo=hackerrank&logoColor=black" width="50">
+</p>
+-->
 
 ## Projects
 
