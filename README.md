@@ -120,7 +120,7 @@
     </td>
   </tr>
 </table>
-
+<!--
 <h3>Artificial Intelligence (Striving Fluency)</h3>
 <table>
   <tr>
@@ -136,6 +136,7 @@
     </td>
   </tr>
 </table>
+-->
 
 <h3>Software and Tools</h3>
 <table>
