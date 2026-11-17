@@ -151,4 +151,5 @@
 <img src="https://custom-icon-badges.demolab.com/badge/Dextroill-0070D1.svg?logo=playstation&logoColor=white">
 <img src="https://custom-icon-badges.demolab.com/badge/Dextroill-107C10.svg?logo=xbox&logoColor=white">  
 <img src="https://custom-icon-badges.demolab.com/badge/Dextroill-186BFF.svg?logo=battledotnet&logoColor=white">
+<img src="https://custom-icon-badges.demolab.com/badge/Dextroill-81B64C.svg?logo=chessdotcom&logoColor=white">
 </p>
