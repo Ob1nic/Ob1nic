@@ -140,9 +140,12 @@
 ![Chinese](https://img.shields.io/badge/中文-Learning-B32629?logo=Color=white)
 ![Hebrew](https://img.shields.io/badge/Hebrew-Basic-3B82F6?logo=Color=white)
 ![Yiddish](https://img.shields.io/badge/Yiddish-Basic-764ABC?logo=Color=white)
+<!--
 ![Russian](https://img.shields.io/badge/Russian-intheFuture-B32629?logo=Color=white)
+![Japanese](https://img.shields.io/badge/Japanese-intheFuture-B32629?logo=Color=white)
 ![Romanian](https://img.shields.io/badge/Romanian-intheFuture-204ECF?logo=Color=white)
 ![Turkish](https://img.shields.io/badge/Turkish-intheFuture-B32629?logo=Color=white)
+-->
 
 ## Find Me Online
 <p align="left">
