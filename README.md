@@ -28,11 +28,11 @@
     <td valign="middle">
       <img src="https://custom-icon-badges.demolab.com/badge/Python-03599C.svg?logo=python&logoColor=white">
       <img src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white">
-      <br>
       <!-- <img src="https://custom-icon-badges.demolab.com/badge/C++-1572B6.svg?logo=cpp2&logoColor=white"> -->
       <!-- <img src="https://custom-icon-badges.demolab.com/badge/C%23-purple.svg?logo=cs2&logoColor=white"> -->
       <img src="https://custom-icon-badges.demolab.com/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
       <img src="https://custom-icon-badges.demolab.com/badge/TypeScript-3178C6?logo=typescript&logoColor=white">
+      <br>
       <img src="https://custom-icon-badges.demolab.com/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB">
       <img src="https://custom-icon-badges.demolab.com/badge/Vite-646CFF?logo=vite&logoColor=white">
       <img src="https://custom-icon-badges.demolab.com/badge/Electron-20232a?logo=electron&logoColor=white">
